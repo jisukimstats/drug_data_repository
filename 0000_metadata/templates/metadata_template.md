@@ -1,10 +1,10 @@
 
----
-# STRUCTURED FIELDS (Export to CSV/Excel/ArcGIS)
-source_file: {{FILENAME}}
-created_at: {{DATE}}
+## Key structured fields 
 
-year:               # release year of the report
+source_file: {{FILENAME}}
+added_at: {{DATE}}
+
+year: # release year of the report
 country_region:     # country or multi-country coverage (SEA, Pacific SIDS, etc.)
 institution:        # institution/agency who publishes
 report_type:        # ADMIN / SURVEYS / STUDIES

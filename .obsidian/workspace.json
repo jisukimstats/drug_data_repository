@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0000_metadata/Database.md",
+                "file": "0000_metadata/templates/metadata_template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Database"
+              "title": "metadata_template"
             }
           },
           {
@@ -72,14 +72,14 @@
               "state": {
                 "file": "0000_metadata/templates/metadata_template.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "metadata_template"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "b224cb37ce69ebcc",
@@ -261,15 +261,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "01b34c12a19fe153",
+  "active": "f6905873c22c9914",
   "lastOpenFiles": [
-    "0000_metadata/Repository_Guidelines.md",
-    "0000_metadata/templates/metadata_template.md",
     "0000_metadata/Database.md",
+    "0000_metadata/Set of indicators.md",
+    "0000_metadata/templates/metadata_template.md",
+    "0000_metadata/Repository_Guidelines.md",
     "Untitled 1.md",
     "Untitled.md",
     "0205_Malaysia/Untitled.md",
-    "0000_metadata/Set of indicators.md",
     "Untitled.base",
     "README.md",
     "0000_metadata/templates",
