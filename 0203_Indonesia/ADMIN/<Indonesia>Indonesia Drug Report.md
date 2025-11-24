@@ -1,5 +1,5 @@
 
-## Indonesia Drug Report
+## Indonesia Drug Report(IDR)
 
 * Release Year : 2019 - 2025
 * Latest year of data source : 2025
